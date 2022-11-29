@@ -7,7 +7,7 @@
 
 ## Builds
 
-### Tidal Dash
+### Poseidon Dash
 ```
 Keepsake 1: Conch Shell (Poseidon)
 
@@ -33,7 +33,7 @@ Dash: Divine Dash (Athena)
 Once you have the duo and Divine Dash, the ideal damage rotation is Dash-strike(s) → Attack → Special → Repeat.
 ```
 
-### Drunken Strike
+### Dionysus Attack
 ```
 Keepsake 1: Overflowing Cup (Dionysus)
 Keepsake 2: Eternal Rose (Aphrodite)
@@ -49,7 +49,7 @@ Dash:
   Blade Dash (Ares)
 ```
 
-### Deadly Strike
+### Artemis Attack
 ```
 Keepsake 1: Adamant Arrowhead (Artemis)
 
@@ -62,7 +62,7 @@ Dash:
 Duo: Heart Rend (Aphrodite + Artemis)
 ```
 
-### Cursed Slash
+### Cursed Slash (Hammer)
 ```
 Hammers: Flurry Slash + Cursed Slash
 
