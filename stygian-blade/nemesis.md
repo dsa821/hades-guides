@@ -32,7 +32,7 @@ Dash:
 ```
 Look for more Artemis crit-enhancing boons and Chaos or jerkies for attack or dash-strike boosts.
 
-### Drunken Strike
+### Dionysus Attack
 ```
 Keepsake 1: Overflowing Cup (Dionysus)
 Keepsake 2:
@@ -49,7 +49,7 @@ Dash:
 ```
 Add Artemis support boons for more/better crits or slot her into a main slot for Splitting Headache or Heart Rend. Global damage boosts like Bad Influence or Rush Delivery or Billowing Strength or Sweet Surrender will let you double-dip and boost both your dash-strikes and the hangover ticks.
 
-### Tidal Dash
+### Poseidon Dash
 ```
 Keepsake 1: Conch Shell (Poseidon)
 
